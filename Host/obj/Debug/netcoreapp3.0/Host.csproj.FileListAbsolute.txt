@@ -1,0 +1,15 @@
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.exe
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.deps.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.runtimeconfig.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.runtimeconfig.dev.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Host.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Interface.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\bin\Debug\netcoreapp3.0\Interface.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.csprojAssemblyReference.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.csproj.CoreCompileInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.AssemblyInfoInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.AssemblyInfo.cs
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.csproj.CopyComplete
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Host\obj\Debug\netcoreapp3.0\Host.pdb

@@ -1,0 +1,12 @@
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\bin\Debug\netcoreapp3.0\Plugin.deps.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\bin\Debug\netcoreapp3.0\Plugin.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\bin\Debug\netcoreapp3.0\Plugin.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\bin\Debug\netcoreapp3.0\PluginDependency.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\bin\Debug\netcoreapp3.0\PluginDependency.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.csprojAssemblyReference.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.csproj.CoreCompileInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.AssemblyInfoInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.AssemblyInfo.cs
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.csproj.CopyComplete
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Plugin\obj\Debug\netcoreapp3.0\Plugin.pdb

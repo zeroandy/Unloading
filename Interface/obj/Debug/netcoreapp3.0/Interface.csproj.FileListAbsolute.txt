@@ -1,0 +1,8 @@
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\bin\Debug\netcoreapp3.0\Interface.deps.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\bin\Debug\netcoreapp3.0\Interface.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\bin\Debug\netcoreapp3.0\Interface.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\obj\Debug\netcoreapp3.0\Interface.csproj.CoreCompileInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\obj\Debug\netcoreapp3.0\Interface.AssemblyInfoInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\obj\Debug\netcoreapp3.0\Interface.AssemblyInfo.cs
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\obj\Debug\netcoreapp3.0\Interface.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\Interface\obj\Debug\netcoreapp3.0\Interface.pdb

@@ -1,0 +1,8 @@
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\bin\Debug\netcoreapp3.0\PluginDependency.deps.json
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\bin\Debug\netcoreapp3.0\PluginDependency.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\bin\Debug\netcoreapp3.0\PluginDependency.pdb
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\obj\Debug\netcoreapp3.0\PluginDependency.csproj.CoreCompileInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\obj\Debug\netcoreapp3.0\PluginDependency.AssemblyInfoInputs.cache
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\obj\Debug\netcoreapp3.0\PluginDependency.AssemblyInfo.cs
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\obj\Debug\netcoreapp3.0\PluginDependency.dll
+D:\Project\samples-master\samples-master\core\tutorials\Unloading\PluginDependency\obj\Debug\netcoreapp3.0\PluginDependency.pdb
